@@ -9,6 +9,7 @@ HP System created (Enemies die, player damages on collison, etc.)
 HP Systems Removed  
 New Room Prefabs Created  
 Camera Follows Player  
+  
 *Need to Fix:*  
 Camera (It's jank)  
 Player Rotation (it doesn't)  
