@@ -8,11 +8,9 @@ HP System created (Enemies die, player damages on collison, etc.)
 09/25/2023:  
 HP Systems Removed  
 New Room Prefabs Created  
-Camera Follows Player  
+Camera Follows Player
+Player Rotates with Movement
   
-*Need to Fix:*  
-Camera (It's jank)  
-Player Rotation (it doesn't)  
 *Need to implement:*  
 Room Generation (Object Pool, Decorator Pattern)
 Enemy System (Probably with Room Generation or Decorator)
