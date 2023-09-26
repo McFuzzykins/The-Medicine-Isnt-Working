@@ -12,5 +12,5 @@ Camera Follows Player
 Player Rotates with Movement
   
 *Need to implement:*  
-Room Generation (Object Pool, Decorator Pattern)
+Room Generation (Object Pool, Decorator Pattern)  
 Enemy System (Probably with Room Generation or Decorator)
