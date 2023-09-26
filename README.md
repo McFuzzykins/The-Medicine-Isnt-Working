@@ -5,7 +5,7 @@ https://mcfuzzykins.github.io/The-Medicine-Isnt-Working/
 Repo Created  
 HP System created (Enemies die, player damages on collison, etc.)
 
-09/25/2023:
-HP Systems Removed
-New Room Prefabs Created
-Camera Follows Player
+09/25/2023:  
+HP Systems Removed  
+New Room Prefabs Created  
+Camera Follows Player  
