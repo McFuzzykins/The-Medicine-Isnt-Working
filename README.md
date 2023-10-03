@@ -13,4 +13,10 @@ Player Rotates with Movement
   
 *Need to implement:*  
 Room Generation (Object Pool, Decorator Pattern)  
-Enemy System (Probably with Room Generation or Decorator)
+Enemy System (Probably with Room Generation or Decorator)  
+  
+10/02/2023:  
+Player can Die  
+Enemies Spawn in (No AI)  
+Win Condition (Get to thing)  
+Win/Loss Screens  
