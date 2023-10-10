@@ -21,6 +21,6 @@ Enemies Spawn in (No AI)
 Win Condition (Get to thing)  
 Win/Loss Screens  
 
-10/09/2023:
-Healthbar, Psychosis Meter, and Pill Count
-More rooms
+10/09/2023:  
+Healthbar, Psychosis Meter, and Pill Count  
+More rooms  
