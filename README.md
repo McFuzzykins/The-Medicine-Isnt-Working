@@ -1,5 +1,6 @@
 # The-Medicine-Isnt-Working  
 https://mcfuzzykins.github.io/The-Medicine-Isnt-Working/  
+Press P to turn off Post-Processing Layer (If framerate is an issue)  
 
 # Referential Material  
 This section is not just to cite what material I reviewed to help me produce this,  
