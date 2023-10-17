@@ -56,7 +56,7 @@ public class PlayerMovement : MonoBehaviour
         float v = verticalSpeed * Input.GetAxis("Mouse Y");
         transform.Rotate(0, h, 0);
 
-        UpdatePsychosisBar();
+        //UpdatePsychosisBar();
 
         if (curHp <= 0)
         {
@@ -135,7 +135,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (!correctMeds)
         {
-            psychosisBar.value -= 3f * Time.time;
+            psychosisBar.value -= 0.5f * Time.time;
         }
         else
         {
