@@ -1,5 +1,11 @@
 # The-Medicine-Isnt-Working  
-https://mcfuzzykins.github.io/The-Medicine-Isnt-Working/
+https://mcfuzzykins.github.io/The-Medicine-Isnt-Working/  
+
+# Referential Material  
+This section is not just to cite what material I reviewed to help me produce this,  
+but for others that view this project to learn cool new things  
+- Post-Processing with URP: https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/integration-with-post-processing.html  
+
 # Changelog  
 09/19/2023:  
 Repo Created  
