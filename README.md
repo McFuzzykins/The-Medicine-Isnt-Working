@@ -40,7 +40,4 @@ More rooms
 10/17/2023:  
 Post-Processing Stuff to indicate Psychosis stuff  
 Enemies move around (some of em)
-Scripts control Post-Processing Effects
-
-![image](https://github.com/McFuzzykins/The-Medicine-Isnt-Working/assets/77823726/df7b0ca5-5205-4ab5-8e55-757ed4cce122)  
-
+Scripts control Post-Processing Effects  
