@@ -10,7 +10,9 @@ but for others that view this project to learn cool new things
 - Editing Post-Process effects in Scirpts:  
   https://forum.unity.com/threads/how-to-modify-post-processing-profiles-in-script.758375/  
   https://forum.unity.com/threads/urp-volume-cs-how-to-access-the-override-settings-at-runtime-via-script.813093/#post-5415663  
-  https://forum.unity.com/threads/how-do-i-change-post-processing-effects-with-a-script-urp.1277198/
+  https://forum.unity.com/threads/how-do-i-change-post-processing-effects-with-a-script-urp.1277198/  
+- Nurse Model and Animations
+  https://www.mixamo.com/#/  
   
 # Changelog  
 09/19/2023:  
