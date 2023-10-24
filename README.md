@@ -43,3 +43,12 @@ More rooms
 Post-Processing Stuff to indicate Psychosis stuff  
 Enemies move around (some of em)
 Scripts control Post-Processing Effects  
+
+10/24/2023:  
+More Post-Processing  
+Added Icons for Health and Psychosis Meter  
+Enemies are now Nurses that have walking animations  
+Enemies Chase after player when entering a 10 unit radius  
+WinCon items are now Pill Bottles  
+Refactored Code to be cleaner and have designated purposes  
+Implementing an Observer Pattern, currently not finished  
