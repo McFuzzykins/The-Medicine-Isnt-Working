@@ -45,7 +45,7 @@ Enemies move around (some of em)
 Scripts control Post-Processing Effects  
 
 10/24/2023:  
-More Post-Processing  
+More Post-Processing Effects  
 Added Icons for Health and Psychosis Meter  
 Enemies are now Nurses that have walking animations  
 Enemies Chase after player when entering a 10 unit radius  
