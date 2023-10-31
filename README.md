@@ -52,3 +52,9 @@ Enemies Chase after player when entering a 10 unit radius
 WinCon items are now Pill Bottles  
 Refactored Code to be cleaner and have designated purposes  
 Implementing an Observer Pattern, currently not finished  
+
+10/31/2023:  
+Bloom Effect on hit from Enemies  
+Starting to implement state machine for Enemies  
+Psychosis Meter has gradual decay, Post-Processing Effects tied to it show gradual change  
+
