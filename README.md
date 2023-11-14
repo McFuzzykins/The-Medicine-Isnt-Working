@@ -57,4 +57,9 @@ Implementing an Observer Pattern, currently not finished
 Bloom Effect on hit from Enemies  
 Starting to implement state machine for Enemies  
 Psychosis Meter has gradual decay, Post-Processing Effects tied to it show gradual change  
+  
+11/14/2023:  
+New Start Menu with Settings Sub-Menu implemented  
+New Textures and imported assets from a free Horror Hospital pack in the Unity Asset Store  
+Loss Screen allows for Replay  
 
