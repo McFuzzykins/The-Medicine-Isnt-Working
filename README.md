@@ -1,8 +1,8 @@
 # The-Medicine-Isnt-Working  
 https://mcfuzzykins.github.io/The-Medicine-Isnt-Working/  
-Press P to turn off Post-Processing Layer   
+Settings Menu on Start Screen has toggle for Post Processing Effects   
 
-# Referential Material  
+# Referential/Implemented Material  
 This section is not just to cite what material I reviewed to help me produce this,  
 but for others that view this project to learn cool new things  
 - Post-Processing Setup with URP:  
@@ -12,7 +12,9 @@ but for others that view this project to learn cool new things
   https://forum.unity.com/threads/urp-volume-cs-how-to-access-the-override-settings-at-runtime-via-script.813093/#post-5415663  
   https://forum.unity.com/threads/how-do-i-change-post-processing-effects-with-a-script-urp.1277198/  
 - Nurse Model and Animations:  
-  https://www.mixamo.com/#/  
+  https://www.mixamo.com/#/
+- Various Textures and Models:
+  https://assetstore.unity.com/packages/3d/environments/hospital-horror-pack-44045   
   
 # Changelog  
 09/19/2023:  
