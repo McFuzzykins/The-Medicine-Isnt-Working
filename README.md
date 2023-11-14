@@ -13,7 +13,7 @@ but for others that view this project to learn cool new things
   https://forum.unity.com/threads/how-do-i-change-post-processing-effects-with-a-script-urp.1277198/  
 - Nurse Model and Animations:  
   https://www.mixamo.com/#/
-- Various Textures and Models:
+- Various Textures and Models:  
   https://assetstore.unity.com/packages/3d/environments/hospital-horror-pack-44045   
   
 # Changelog  
