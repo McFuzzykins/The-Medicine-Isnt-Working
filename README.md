@@ -64,4 +64,8 @@ Psychosis Meter has gradual decay, Post-Processing Effects tied to it show gradu
 New Start Menu with Settings Sub-Menu implemented  
 New Textures and imported assets from a free Horror Hospital pack in the Unity Asset Store  
 Loss Screen allows for Replay  
-
+  
+11/21/2023:  
+Remaking the Map
+New additions to aid in immersion of Insanity  
+Button system to collect medications  
