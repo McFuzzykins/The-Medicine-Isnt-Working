@@ -14,14 +14,23 @@ but for others that view this project to learn cool new things
 - Nurse Model and Animations:  
   https://www.mixamo.com/#/
 - Various Textures and Models:  
-  https://assetstore.unity.com/packages/3d/environments/hospital-horror-pack-44045   
+  https://assetstore.unity.com/packages/3d/environments/hospital-horror-pack-44045
+  
+# Bug Log
+## 11/21/2023:  
+Not all medication pickups display pickup prompt  
+Can infinitely pick up pickups even after they disable  
+Enemies cannot die  
+  
+### UNITY BUGS:  
+There seems to be a bug with importing images while having the HDRP Package installed  
   
 # Changelog  
-09/19/2023:  
+## 09/19/2023:  
 Repo Created  
 HP System created (Enemies die, player damages on collison, etc.)  
   
-09/25/2023:  
+## 09/25/2023:  
 HP Systems Removed  
 New Room Prefabs Created  
 Camera Follows Player  
@@ -31,22 +40,22 @@ Player Rotates with Movement
 Room Generation (Object Pool, Decorator Pattern)  
 Enemy System (Probably with Room Generation or Decorator)  
   
-10/02/2023:  
+## 10/02/2023:  
 Player can Die  
 Enemies Spawn in (No AI)  
 Win Condition (Get to thing)  
 Win/Loss Screens  
 
-10/09/2023:  
+## 10/09/2023:  
 Healthbar, Psychosis Meter, and Pill Count  
 More rooms  
   
-10/17/2023:  
+## 10/17/2023:  
 Post-Processing Stuff to indicate Psychosis stuff  
 Enemies move around (some of em)
 Scripts control Post-Processing Effects  
 
-10/24/2023:  
+## 10/24/2023:  
 More Post-Processing Effects  
 Added Icons for Health and Psychosis Meter  
 Enemies are now Nurses that have walking animations  
@@ -55,17 +64,17 @@ WinCon items are now Pill Bottles
 Refactored Code to be cleaner and have designated purposes  
 Implementing an Observer Pattern, currently not finished  
 
-10/31/2023:  
+## 10/31/2023:  
 Bloom Effect on hit from Enemies  
 Starting to implement state machine for Enemies  
 Psychosis Meter has gradual decay, Post-Processing Effects tied to it show gradual change  
   
-11/14/2023:  
+## 11/14/2023:  
 New Start Menu with Settings Sub-Menu implemented  
 New Textures and imported assets from a free Horror Hospital pack in the Unity Asset Store  
 Loss Screen allows for Replay  
   
-11/21/2023:  
+## 11/21/2023:  
 Remaking the Map
-New additions to aid in immersion of Insanity  
+New additions to aid in immersion   
 Button system to collect medications  
